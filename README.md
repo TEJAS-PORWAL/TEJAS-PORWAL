@@ -1,7 +1,10 @@
-[![MasterHead](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<!-- <img  alt="Coding" width="100%" height="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
+<br/>
+
 <h1 align="center">Hi 👋, I'm TEJAS PORWAL</h1>
 <h3 align="center">Software developer | Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right"  padding="20px" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-porwal&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-porwal" /> </p>
